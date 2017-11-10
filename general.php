@@ -1,5 +1,4 @@
-:x<?php include('header.php');?>
-<h1>This is for git hub</h1>
+<?php include('header.php');?>
 <div class="container">
 <div class="insert">
 <form action="gen.php" method="post">
