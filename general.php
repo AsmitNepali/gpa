@@ -30,15 +30,7 @@
 
 	</tr>
 </thead>
-
-
-
-
-
-
-
-
-	<tr>
+<tr>
 		<td align="center">1</td>
 		<td >Mathmatics</td>
 		<td align="center">100</td>
